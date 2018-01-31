@@ -2,11 +2,11 @@
      -webkit-tap-highlight-color: transparent;
      position: fixed;
      top: 0;
-     width: 4em;
-     height: 4em;
+     width: 45px;
+     height: 45px;
      background-image: url("../images/close.svg");
      background-repeat: no-repeat;
-     background-size: 64px 64px;
+     background-size: 45px;
      cursor: pointer;
      z-index: 1;
      right: 0;
@@ -24,7 +24,7 @@
  .m-container{
 	min-height:100vh;
 	background:#fff;
-	border:solid 
+	border:solid ;
  }
  body.fullscreen .side-nav{
      display:none;
