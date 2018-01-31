@@ -18,8 +18,14 @@
      background-image: url("../images/open.svg");
 }
  body.fullscreen .m-container{
-     min-width:99vw;
+     min-width:100vw;
+	 border:0;
 }
+ .m-container{
+	min-height:100vh;
+	background:#fff;
+	border:solid 
+ }
  body.fullscreen .side-nav{
      display:none;
 }
